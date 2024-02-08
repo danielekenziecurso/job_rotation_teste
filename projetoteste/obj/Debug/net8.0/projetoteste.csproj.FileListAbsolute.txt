@@ -1,0 +1,15 @@
+C:\Users\Daniele\OneDrive\Área de Trabalho\teste\projetoteste\bin\Debug\net8.0\projetoteste.exe
+C:\Users\Daniele\OneDrive\Área de Trabalho\teste\projetoteste\bin\Debug\net8.0\projetoteste.deps.json
+C:\Users\Daniele\OneDrive\Área de Trabalho\teste\projetoteste\bin\Debug\net8.0\projetoteste.runtimeconfig.json
+C:\Users\Daniele\OneDrive\Área de Trabalho\teste\projetoteste\bin\Debug\net8.0\projetoteste.dll
+C:\Users\Daniele\OneDrive\Área de Trabalho\teste\projetoteste\bin\Debug\net8.0\projetoteste.pdb
+C:\Users\Daniele\OneDrive\Área de Trabalho\teste\projetoteste\obj\Debug\net8.0\projetoteste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniele\OneDrive\Área de Trabalho\teste\projetoteste\obj\Debug\net8.0\projetoteste.AssemblyInfoInputs.cache
+C:\Users\Daniele\OneDrive\Área de Trabalho\teste\projetoteste\obj\Debug\net8.0\projetoteste.AssemblyInfo.cs
+C:\Users\Daniele\OneDrive\Área de Trabalho\teste\projetoteste\obj\Debug\net8.0\projetoteste.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\OneDrive\Área de Trabalho\teste\projetoteste\obj\Debug\net8.0\projetoteste.sourcelink.json
+C:\Users\Daniele\OneDrive\Área de Trabalho\teste\projetoteste\obj\Debug\net8.0\projetoteste.dll
+C:\Users\Daniele\OneDrive\Área de Trabalho\teste\projetoteste\obj\Debug\net8.0\refint\projetoteste.dll
+C:\Users\Daniele\OneDrive\Área de Trabalho\teste\projetoteste\obj\Debug\net8.0\projetoteste.pdb
+C:\Users\Daniele\OneDrive\Área de Trabalho\teste\projetoteste\obj\Debug\net8.0\projetoteste.genruntimeconfig.cache
+C:\Users\Daniele\OneDrive\Área de Trabalho\teste\projetoteste\obj\Debug\net8.0\ref\projetoteste.dll
